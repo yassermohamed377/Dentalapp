@@ -1,0 +1,54 @@
+C:\Users\yasser\source\repos\Dentalcl\Dentalcl\bin\Debug\Dentalcl.exe.config
+C:\Users\yasser\source\repos\Dentalcl\Dentalcl\bin\Debug\Dentalcl.exe
+C:\Users\yasser\source\repos\Dentalcl\Dentalcl\bin\Debug\Dentalcl.pdb
+C:\Users\yasser\source\repos\Dentalcl\Dentalcl\obj\Debug\Dentalcl.csproj.AssemblyReference.cache
+C:\Users\yasser\source\repos\Dentalcl\Dentalcl\obj\Debug\Dentalcl.csproj.SuggestedBindingRedirects.cache
+C:\Users\yasser\source\repos\Dentalcl\Dentalcl\obj\Debug\Dentalcl.Form1.resources
+C:\Users\yasser\source\repos\Dentalcl\Dentalcl\obj\Debug\Dentalcl.Properties.Resources.resources
+C:\Users\yasser\source\repos\Dentalcl\Dentalcl\obj\Debug\Dentalcl.csproj.GenerateResource.cache
+C:\Users\yasser\source\repos\Dentalcl\Dentalcl\obj\Debug\Dentalcl.csproj.CoreCompileInputs.cache
+C:\Users\yasser\source\repos\Dentalcl\Dentalcl\obj\Debug\Dentalcl.exe
+C:\Users\yasser\source\repos\Dentalcl\Dentalcl\obj\Debug\Dentalcl.pdb
+C:\Users\yasser\source\repos\Dentalcl\Dentalcl\obj\Debug\Dentalcl.Form2.resources
+C:\Users\yasser\source\repos\Dentalcl\Dentalcl\obj\Debug\Dentalcl.Form3.resources
+C:\Users\yasser\source\repos\Dentalcl\Dentalcl\obj\Debug\Dentalcl.signuppage.resources
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\bin\Debug\Dentalcl.exe.config
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\bin\Debug\Dentalcl.exe
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\bin\Debug\Dentalcl.pdb
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\obj\Debug\Dentalcl.csproj.AssemblyReference.cache
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\obj\Debug\Dentalcl.csproj.SuggestedBindingRedirects.cache
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\obj\Debug\Dentalcl.Form1.resources
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\obj\Debug\Dentalcl.Form2.resources
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\obj\Debug\Dentalcl.Form3.resources
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\obj\Debug\Dentalcl.signuppage.resources
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\obj\Debug\Dentalcl.Properties.Resources.resources
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\obj\Debug\Dentalcl.csproj.GenerateResource.cache
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\obj\Debug\Dentalcl.csproj.CoreCompileInputs.cache
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\obj\Debug\Dentalcl.exe
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\obj\Debug\Dentalcl.pdb
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\obj\Debug\Dentalcl.csproj.CopyComplete
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\bin\Debug\Dentalcl.exe.manifest
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\bin\Debug\Dentalcl.application
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\obj\Debug\Dentalcl.exe.manifest
+C:\Users\yasser\Desktop\Dentalcl\Dentalcl\obj\Debug\Dentalcl.application
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\bin\Debug\Dentalcl.exe.config
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\bin\Debug\Dentalcl.exe.manifest
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\bin\Debug\Dentalcl.application
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\bin\Debug\Dentalcl.exe
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\bin\Debug\Dentalcl.pdb
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\obj\Debug\Dentalcl.csproj.AssemblyReference.cache
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\obj\Debug\Dentalcl.csproj.SuggestedBindingRedirects.cache
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\obj\Debug\Dentalcl.Form1.resources
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\obj\Debug\Dentalcl.Form2.resources
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\obj\Debug\Dentalcl.Form3.resources
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\obj\Debug\Dentalcl.signuppage.resources
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\obj\Debug\Dentalcl.Properties.Resources.resources
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\obj\Debug\Dentalcl.csproj.GenerateResource.cache
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\obj\Debug\Dentalcl.csproj.CoreCompileInputs.cache
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\obj\Debug\Dentalcl.exe.manifest
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\obj\Debug\Dentalcl.application
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\obj\Debug\Dentalcl.csproj.CopyComplete
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\obj\Debug\Dentalcl.exe
+C:\Users\yasser\Desktop\tasksoop (6)\Dentalcl\obj\Debug\Dentalcl.pdb
